@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+raw_system_design.html
+*.pyc
+__pycache__/
